@@ -7,3 +7,6 @@ This is a part of the code for the unsupervised learning project that clusters i
 - Preprocessing review text by tokenization, stemming, removing stop words and extracted features by Term Frequency - Inverse Document Frequency(TF-IDF).
 - Training unsupervised learning models of K-means clustering and Latent Dirichlet Analysis.
 - Identifying latent topic and keywords of each review for clustering.
+
+
+![symbol of rossey.](https://depts.washington.edu/hprc/wp-content/uploads/2021/08/ROSSEY-LOGO1_coloured_600px-300x118.png)
